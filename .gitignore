@@ -1,0 +1,15 @@
+# virtual environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]/
+
+# Large artifacts we don't want inside git
+mlruns/
+artifacts/
+data/raw/
+data/preprocessed/
+

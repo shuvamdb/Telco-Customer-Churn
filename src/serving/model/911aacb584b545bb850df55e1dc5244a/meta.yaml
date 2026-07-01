@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Projects/Telco-Customer-Churn-MLE/mlruns/860777467256719846/911aacb584b545bb850df55e1dc5244a/artifacts
+end_time: 1782645988064
+entry_point_name: ''
+experiment_id: '860777467256719846'
+lifecycle_stage: active
+run_id: 911aacb584b545bb850df55e1dc5244a
+run_name: brawny-steed-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782645986330
+status: 3
+tags: []
+user_id: Dell
