@@ -1,0 +1,25 @@
+name : My First GitHub Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Print Greeting
+        run: echo "Hello from GitHub Actions!!"
+
+      - name: Show Current Directory
+        run: pwd
+
+      - name: List Repo Files
+        run: ls -la
+
+
