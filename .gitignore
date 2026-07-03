@@ -9,7 +9,9 @@ __pycache__/
 
 # Large artifacts we don't want inside git
 mlruns/
-artifacts/
+/artifacts/
 data/raw/
 data/preprocessed/
+
+
 
