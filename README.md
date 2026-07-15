@@ -1,4 +1,5 @@
-## anything about the project
+TELCO CHURN PREDICTOR - END to END ML PROJECT
+---------------------------------------------
 
 Telecommunication companies operate in a highly competitive market where retaining existing customers is more cost-effective than acquiring new ones. A major challenge faced by telecom providers is customer churn, where customers discontinue their services and move to competitors.
 
